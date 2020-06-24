@@ -16,7 +16,7 @@ This will be done by using XGBoosting to determine which patrol routes should be
 
 Tableau visualisations & time-series forecasting will be used to predict the trend of such crimes, so that more preventive actions could be taken to prevent these instances through better education in school or in the media.
 
--
+--
 
 In hindsight, additional variables such as weather & temperature could be taken into consideration to empower the SFPD with information to be more effective in preventing & solving crimes.
 
